@@ -1,0 +1,20 @@
+Task Name: Prepare presentation
+Description: Create slides for the project presentation
+Priority: 2
+Date Created: Fri Mar 24 10:04:24 IST 2023
+
+Task Name: Add first task
+Description: split tasks into sub-tasks
+Priority: 3
+Date Created: Fri Mar 24 10:04:24 IST 2023
+
+Task Name: organize tasks into sections
+Description: Complete the project 
+Priority: 4
+Date Created: Fri Mar 24 10:04:24 IST 2023
+
+Task Name: Finish project
+Description: finished the tasks
+Priority: 5
+Date Created: Fri Mar 24 10:04:24 IST 2023
+
